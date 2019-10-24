@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_9", "Lesson_9\Lesson_9.csproj", "{D019DCAD-E097-4D8B-B953-D7D5D19EFA4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{F580BA2E-070E-4DB6-823F-FDC14C1DF271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_array", "String_array\String_array.csproj", "{ACC826D7-A8C0-461F-93CF-DC19D6C6D26E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D019DCAD-E097-4D8B-B953-D7D5D19EFA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D019DCAD-E097-4D8B-B953-D7D5D19EFA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D019DCAD-E097-4D8B-B953-D7D5D19EFA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D019DCAD-E097-4D8B-B953-D7D5D19EFA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F580BA2E-070E-4DB6-823F-FDC14C1DF271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F580BA2E-070E-4DB6-823F-FDC14C1DF271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F580BA2E-070E-4DB6-823F-FDC14C1DF271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F580BA2E-070E-4DB6-823F-FDC14C1DF271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC826D7-A8C0-461F-93CF-DC19D6C6D26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC826D7-A8C0-461F-93CF-DC19D6C6D26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC826D7-A8C0-461F-93CF-DC19D6C6D26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC826D7-A8C0-461F-93CF-DC19D6C6D26E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A525408-F0DE-4E1D-A8FB-3047CB19A542}
+	EndGlobalSection
+EndGlobal

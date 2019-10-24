@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\Lesson_9\String_array\bin\Debug\netcoreapp3.0\String_array.exe
+C:\Users\opilane\projects\Lesson_9\String_array\bin\Debug\netcoreapp3.0\String_array.deps.json
+C:\Users\opilane\projects\Lesson_9\String_array\bin\Debug\netcoreapp3.0\String_array.runtimeconfig.json
+C:\Users\opilane\projects\Lesson_9\String_array\bin\Debug\netcoreapp3.0\String_array.runtimeconfig.dev.json
+C:\Users\opilane\projects\Lesson_9\String_array\bin\Debug\netcoreapp3.0\String_array.dll
+C:\Users\opilane\projects\Lesson_9\String_array\bin\Debug\netcoreapp3.0\String_array.pdb
+C:\Users\opilane\projects\Lesson_9\String_array\obj\Debug\netcoreapp3.0\String_array.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Lesson_9\String_array\obj\Debug\netcoreapp3.0\String_array.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\Lesson_9\String_array\obj\Debug\netcoreapp3.0\String_array.AssemblyInfo.cs
+C:\Users\opilane\projects\Lesson_9\String_array\obj\Debug\netcoreapp3.0\String_array.dll
+C:\Users\opilane\projects\Lesson_9\String_array\obj\Debug\netcoreapp3.0\String_array.pdb

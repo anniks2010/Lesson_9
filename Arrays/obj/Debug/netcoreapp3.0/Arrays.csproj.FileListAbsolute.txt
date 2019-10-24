@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\Lesson_9\Arrays\bin\Debug\netcoreapp3.0\Arrays.exe
+C:\Users\opilane\projects\Lesson_9\Arrays\bin\Debug\netcoreapp3.0\Arrays.deps.json
+C:\Users\opilane\projects\Lesson_9\Arrays\bin\Debug\netcoreapp3.0\Arrays.runtimeconfig.json
+C:\Users\opilane\projects\Lesson_9\Arrays\bin\Debug\netcoreapp3.0\Arrays.runtimeconfig.dev.json
+C:\Users\opilane\projects\Lesson_9\Arrays\bin\Debug\netcoreapp3.0\Arrays.dll
+C:\Users\opilane\projects\Lesson_9\Arrays\bin\Debug\netcoreapp3.0\Arrays.pdb
+C:\Users\opilane\projects\Lesson_9\Arrays\obj\Debug\netcoreapp3.0\Arrays.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Lesson_9\Arrays\obj\Debug\netcoreapp3.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\Lesson_9\Arrays\obj\Debug\netcoreapp3.0\Arrays.AssemblyInfo.cs
+C:\Users\opilane\projects\Lesson_9\Arrays\obj\Debug\netcoreapp3.0\Arrays.dll
+C:\Users\opilane\projects\Lesson_9\Arrays\obj\Debug\netcoreapp3.0\Arrays.pdb
